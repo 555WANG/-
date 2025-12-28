@@ -1,0 +1,16 @@
+
+{
+  "short_name": "论文进度",
+  "name": "博士论文写作进度追踪器",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3534/3534033.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#1e293b",
+  "background_color": "#ffffff"
+}
